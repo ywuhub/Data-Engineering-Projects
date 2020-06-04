@@ -41,3 +41,7 @@ Functions: Intermediate ✅
 - How to return multiple variables
 - How mutable and immutable data types behave
 - How to use documentation
+
+Guided Project: Profitable App Profiles for the App Store and Google Play Markets ✅
+- To combine the skills you learned in a practical setting
+- How you can add business value using the skills you learned
