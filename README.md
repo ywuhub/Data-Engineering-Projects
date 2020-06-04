@@ -6,42 +6,44 @@ Learning how to build data pipelines to work with large datasets.
 Note: ✅ means completed.
 
 ### Python Fundamentals
-Programming in Python ✅
+Learn about the fundamentals of Python programming in the context of data engineering and data science.
+
+<b>Programming in Python</b> ✅
 - What a computer program is
 - How to write and execute computer programs
 - How to perform arithmetical operations in Python
 - What code comments are and what they are used for
 
-Variables and Data Types ✅
+<b>Variables and Data Types</b> ✅
 - How to save values using variables
 - How to update variables
 - How to work with numerical data
 - How to work with text data
 
-Conditional Statements ✅
+<b>Conditional Statements</b> ✅
 - How to use if, else, and elif statements
 - How to use logical operators
 - How to use comparison operators
 
-Dictionaries ✅
+<b>Dictionaries</b> ✅
 - How to create dictionaries
 - How to update dictionary values
 - How to check for dictionary membership
 - How to count with dictionaries and build frequency tables
 
-Functions: Fundamentals ✅  
+<b>Functions: Fundamentals</b> ✅  
 - What functions are and do
 - How to create your own functions
 - How to combine functions
 - How to debug functions
 
-Functions: Intermediate ✅
+<b>Functions: Intermediate</b> ✅
 - What default arguments are
 - How to use multiple return statements
 - How to return multiple variables
 - How mutable and immutable data types behave
 - How to use documentation
 
-Guided Project: Profitable App Profiles for the App Store and Google Play Markets ✅
+<b>Guided Project: Profitable App Profiles for the App Store and Google Play Markets</b> ✅
 - To combine the skills you learned in a practical setting
 - How you can add business value using the skills you learned
