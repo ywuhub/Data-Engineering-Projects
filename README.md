@@ -44,6 +44,6 @@ Learn about the fundamentals of Python programming in the context of data engine
 - How mutable and immutable data types behave
 - How to use documentation
 
-<b>Guided Project: Profitable App Profiles for the App Store and Google Play Markets</b> ✅
+<b>Guided Project: Profitable App Profiles for the App Store and Google Play Markets</b> ❌
 - To combine the skills you learned in a practical setting
 - How you can add business value using the skills you learned
