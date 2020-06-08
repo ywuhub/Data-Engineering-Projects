@@ -47,3 +47,11 @@ Learn about the fundamentals of Python programming in the context of data engine
 <b>Guided Project: Profitable App Profiles for the App Store and Google Play Markets</b> ✅
 - To combine the skills you learned in a practical setting
 - How you can add business value using the skills you learned
+
+### Python Intermediate
+Learn important tools for your Python data toolbox.
+
+<b>Cleaning and Preparing Data in Python</b>
+- How to work with and prepare text data in Python
+- Basic data cleaning techniques
+- Handling errors during data cleaning
