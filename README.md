@@ -5,7 +5,7 @@ Learning how to build data pipelines to work with large datasets.
 ## Course Objectives
 Note: ✅ means completed.
 
-### Python Fundamentals
+### <u>Python Fundamentals</u>
 Learn about the fundamentals of Python programming in the context of data engineering and data science.
 
 <b>Programming in Python</b> ✅
@@ -48,7 +48,7 @@ Learn about the fundamentals of Python programming in the context of data engine
 - To combine the skills you learned in a practical setting
 - How you can add business value using the skills you learned
 
-### Python Intermediate
+### <u>Python Intermediate</u>
 Learn important tools for your Python data toolbox.
 
 <b>Cleaning and Preparing Data in Python</b>
