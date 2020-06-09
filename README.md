@@ -56,7 +56,7 @@ Learn important tools for your Python data toolbox.
 - Basic data cleaning techniques
 - Handling errors during data cleaning
 
-<b>Object-Oriented Python</b>
+<b>Object-Oriented Python</b> ✅
 - Sets in Python
 - What object-oriented programming is and how it relates to the data science workflow
 - Key concepts including classes, instances, attributes and methods.
