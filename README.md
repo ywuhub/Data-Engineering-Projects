@@ -51,7 +51,13 @@ Learn about the fundamentals of Python programming in the context of data engine
 ### Python Intermediate
 Learn important tools for your Python data toolbox.
 
-<b>Cleaning and Preparing Data in Python</b>
+<b>Cleaning and Preparing Data in Python</b> ✅
 - How to work with and prepare text data in Python
 - Basic data cleaning techniques
 - Handling errors during data cleaning
+
+<b>Object-Oriented Python</b>
+- Sets in Python
+- What object-oriented programming is and how it relates to the data science workflow
+- Key concepts including classes, instances, attributes and methods.
+- How to create your own class
