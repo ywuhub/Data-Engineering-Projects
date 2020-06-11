@@ -61,3 +61,13 @@ Learn important tools for your Python data toolbox.
 - What object-oriented programming is and how it relates to the data science workflow
 - Key concepts including classes, instances, attributes and methods.
 - How to create your own class
+
+<b>Working with Dates and Times in Python</b> ✅
+- How to parse dates from strings using the datetime library
+- Techniques for date and time analysis
+- Formatting dates using strftime
+
+<b>Guided Project: Exploring Hacker News Posts</b> ✅
+- How to use loops to explore data CSV data
+- How to use string methods to clean and analyzing data
+- How to work with dates in python
