@@ -71,3 +71,33 @@ Learn important tools for your Python data toolbox.
 - How to use loops to explore data CSV data
 - How to use string methods to clean and analyzing data
 - How to work with dates in python
+
+### Programming Concepts with Python
+Learn important tools for your Python data toolbox.
+
+<b>Binary and Positional Number Systems</b> ✅
+- Learn how computers represent information internally
+- Learn about the decimal number system
+- Learn about the binary number system
+- Learn about other number systems like octal and hexadecimal
+
+<b>Encodings and Representing Text in a Computer</b> ✅
+- About different modes of opening files
+- About context managers
+- How to deal with different encodings when reading from files
+- How to write to files
+- How to convert between encodings
+
+<b>Reading and Writing to Files</b>
+- About different modes of opening files
+- About context managers
+- How to deal with different encodings when reading from files
+- How to write to files
+- How to convert between encodings
+
+<b>Memory and Disk Usage</b> ✅ 
+- About fix bit integers
+- About internal representation of integers
+- About the two's complement representation
+- How to know how much memory a variable takes
+- How to reduce the disk usage of data with encodings
