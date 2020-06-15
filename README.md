@@ -101,3 +101,33 @@ Learn important tools for your Python data toolbox.
 - About the two's complement representation
 - How to know how much memory a variable takes
 - How to reduce the disk usage of data with encodings
+
+### Introduction to Algorithms
+Learn how to analyze the time and space complexity of algorithms.
+
+<b>Time Complexity of Algorithms</b> ✅ 
+- How to measure the execution time of an algorithm
+- How to generate random inputs for an algorithm
+- How to model the execution time of an algorithm
+
+<b>Constant Time Complexity</b> ✅ 
+- To identify constant time operations.
+- How computers manage memory.
+- Refine the way of computing time complexity models that take into account functions.
+- Identify hidden function calls in Python.
+- The ins and outs of how lists and strings are stored in memory.
+
+<b>Logarithmic Time Complexity</b> ✅ 
+- About logarithms and logarithmic complexity.
+- The binary search algorithm to very quickly find elements in sorted lists.
+
+<b>Sorting Algorithms</b> ✅ 
+- Learn how to implement your own sorting algorithm
+- Learn the time complexity of sorting in Python
+
+<b>Space Complexity</b> ✅ 
+- How to evaluate the space complexity of an algorithm
+- About tradeoffs between time and space
+
+<b>Guided Project: Building Fast Queries on a CSV</b> ✅ 
+- Build indexes for a CSV using dictionaries.
